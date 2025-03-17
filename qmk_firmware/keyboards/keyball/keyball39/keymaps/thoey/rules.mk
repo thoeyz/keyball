@@ -1,3 +1,7 @@
 RGBLIGHT_ENABLE = yes
 
 OLED_ENABLE = yes
+
+COMBO_ENABLE = yes
+
+EXTRAFLAGS+=-flto
